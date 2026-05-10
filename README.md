@@ -14,3 +14,7 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## GitHub Pages
+
+Enable GitHub Pages in the repository settings and set the source to GitHub Actions before the workflow can deploy successfully.
