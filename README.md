@@ -15,6 +15,8 @@ npm run dev
 npm run build
 ```
 
-## GitHub Pages
+## Netlify
 
-Enable GitHub Pages in the repository settings and set the source to GitHub Actions before the workflow can deploy successfully.
+Deploy this project by connecting the repository in Netlify and using the included `netlify.toml` build settings.
+Build command: `npm run build`
+Publish directory: `dist`
